@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/xakiib/expressBasic/issues"
   },
-  "homepage": "https://github.com/xakiib/expressBasic#readme"
+  "homepage": "https://github.com/xakiib/expressBasic#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
 }
